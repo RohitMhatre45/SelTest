@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SOYl/exoKEU=",
+  "success": true,
+  "projectFilePath": "D:\\A er\\sdlc\\CDACTestProject\\CDACTestProject\\SeleniumWebDriverProgram\\SeleniumWebDriverProgram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\selenium.webdriver\\4.22.0\\selenium.webdriver.4.22.0.nupkg.sha512"
+  ],
+  "logs": []
+}

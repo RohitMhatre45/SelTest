@@ -1,0 +1,11 @@
+C:\Users\tfladmin\source\repos\CDACTestProject\CDACMaths\bin\Debug\net8.0\CDACMaths.deps.json
+C:\Users\tfladmin\source\repos\CDACTestProject\CDACMaths\bin\Debug\net8.0\CDACMaths.dll
+C:\Users\tfladmin\source\repos\CDACTestProject\CDACMaths\bin\Debug\net8.0\CDACMaths.pdb
+C:\Users\tfladmin\source\repos\CDACTestProject\CDACMaths\obj\Debug\net8.0\CDACMaths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tfladmin\source\repos\CDACTestProject\CDACMaths\obj\Debug\net8.0\CDACMaths.AssemblyInfoInputs.cache
+C:\Users\tfladmin\source\repos\CDACTestProject\CDACMaths\obj\Debug\net8.0\CDACMaths.AssemblyInfo.cs
+C:\Users\tfladmin\source\repos\CDACTestProject\CDACMaths\obj\Debug\net8.0\CDACMaths.csproj.CoreCompileInputs.cache
+C:\Users\tfladmin\source\repos\CDACTestProject\CDACMaths\obj\Debug\net8.0\CDACMaths.dll
+C:\Users\tfladmin\source\repos\CDACTestProject\CDACMaths\obj\Debug\net8.0\refint\CDACMaths.dll
+C:\Users\tfladmin\source\repos\CDACTestProject\CDACMaths\obj\Debug\net8.0\CDACMaths.pdb
+C:\Users\tfladmin\source\repos\CDACTestProject\CDACMaths\obj\Debug\net8.0\ref\CDACMaths.dll
